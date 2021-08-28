@@ -1,0 +1,78 @@
+/*****************************
+GENERAL
+*****************************/
+
+a{
+    text-decoration: none;
+}
+
+img {
+    max-width: 100%;
+}
+
+html {
+    background-color: #b9edc9;
+}
+
+body {
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+#wrapper {
+    max-width: 1050px;
+    margin: 0 auto;
+    padding: 0 5%;
+}
+
+a {
+    color: #2e35ff;
+}
+
+/*****************************
+HEADING
+*****************************/
+
+header {
+    float: left;
+    margin: 0 0 20px 0;
+    padding: 2px 0 0 0;
+    width: 100%;
+}
+
+h1 {
+    font-family:Arial, Helvetica, sans-serif;
+    margin: 10px 0;
+    font-size: 2em;
+    font-weight: bold;
+    line-height: 0.75;
+    text-align: center;
+    color: #2e35ff;
+}
+
+/********************************
+PAGE
+********************************/
+
+.pageOneImage {
+    float: left;
+    width: 325px;
+    height: 350px;
+    margin: 5px 10px;
+    border-radius: 25px;
+}
+
+.pageTwoImageOne {
+    float: right;
+    width: 550px;
+    height: 450px;
+    margin: 10px;
+    border-radius: 25px;
+}
+
+.pageTwoImageTwo {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
